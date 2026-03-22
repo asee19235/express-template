@@ -5,3 +5,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Fixed off-by-one error in loop
 - Reviewed open issues, added labels
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
+- Removed unused variable declarations
+- Pinned dependency versions for reproducibility
