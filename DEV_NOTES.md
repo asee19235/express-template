@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Removed unused variable declarations
 - Pinned dependency versions for reproducibility
+
+## 2026-03-23
+- Resolved deprecation warnings
+- Added basic usage examples to README
